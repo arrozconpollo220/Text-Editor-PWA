@@ -47,7 +47,11 @@
   https://text-editor-pwa-6zgz.onrender.com/
 
   ## Screenshots
-  
+  ![Pic1 PWA](https://github.com/user-attachments/assets/f52b97d4-8b97-4429-ae0f-201a00a16b13)
+  ![Pic2 PWA](https://github.com/user-attachments/assets/8d1e58fd-13b2-4367-baee-5e0f918200f1)
+  ![Pic3 PWA](https://github.com/user-attachments/assets/2c294c1b-a2f6-4233-81f6-8a0182f9e616)
+  ![Pic4 PWA](https://github.com/user-attachments/assets/f3f589bc-81fc-452d-8b21-ac8ac8252665)
+
 
   ## Questions?
   Any questions regarding this project can be answered by contacting me through my GitHub Profile at https://github.com/arrozconpollo220 or at my email address at alexander.rodriguez2121@gmail.com. 
